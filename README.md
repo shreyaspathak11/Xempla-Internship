@@ -16,6 +16,9 @@ This project also includes an update from Expo SDK 49 to SDK 51, ensuring compat
 2. **Offline Storage**: Store form data locally when offline using SQLite.
 3. **App Update**: Update the application to target the latest Android version.
 
+## Flow Chart
+![flow-chart](flow-chart.png)
+
 ## Workflow
 1. **Forms Count and Details Listing**: Display the count and details of forms on the home page.
 2. **Dynamic Form Retrieval**: Fetch dynamic forms from an API or local SQLite database, with options for offline form download.
@@ -141,5 +144,3 @@ This project also includes an update from Expo SDK 49 to SDK 51, ensuring compat
 SDE Intern, Xempla
 
 ---
-
-This `README.md` should provide a comprehensive guide for understanding and using the Forms Module in your mobile application.
